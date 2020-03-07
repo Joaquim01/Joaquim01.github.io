@@ -15,7 +15,8 @@ p, ul, li {
 html { background-image: url("Stars.gif");
        background-attachement: fixed;
        margin: 10px auto;
-       width: 90%;}
+       width: 90%;
+       padding: 15px;}
        
 body { color: white;
        width: 500px;}
